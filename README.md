@@ -6,7 +6,6 @@ Flask is a micro web framework for Python designed to build web applications wit
 ## About my project 📃
 ### Building a Flask Web Application for Game Management
 
-Introduction:
 Hello Everyone. Today, I'm excited to present our Flask web application for managing games. This application allows users to view a list of games, add new games, and authenticate themselves to access certain features.
 
 ### 1. Imports:
