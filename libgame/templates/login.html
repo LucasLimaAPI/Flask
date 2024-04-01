@@ -21,8 +21,9 @@
         {% endwith %}
 
         <h1>Login</h1>
-        <form method="POST" action="/authentication">
-            <p><label>Username:</label> <input class="form-control" type="text" name="username" required></p>
+        <form method="POST" action="{{url_for('authentication')}}">
+            <input type="hidden" name="next" value="{{next}}">
+            <p><label>Username:</label> <input class="form-control" type="text" name="user" required></p>
             <p><label>Password:</label> <input class="form-control" type="password" name="password" required></p>
             <p><button class="btn btn-primary" type="submit">Access</button></p>
         </form>
