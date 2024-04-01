@@ -4,7 +4,7 @@
 Flask is a micro web framework for Python designed to build web applications with minimalistic yet powerful features. It offers simplicity, flexibility, and extensibility, making it popular among developers for various projects. Flask provides routing, allowing developers to map URLs to specific functions, and supports Jinja2 templating for dynamic content generation. Its modular design allows easy integration with extensions for additional functionality such as authentication, database integration, and RESTful API development. Flask follows the WSGI standard, ensuring compatibility with various web servers and deployment environments. With its lightweight nature and extensive documentation, Flask empowers developers to create efficient and scalable web applications with ease.
 
 ## About my project 📃
-**Title:** Building a Flask Web Application for Game Management
+### Building a Flask Web Application for Game Management
 
 Introduction:
 Good [morning/afternoon/evening], everyone. Today, I'm excited to present our Flask web application for managing games. This application allows users to view a list of games, add new games, and authenticate themselves to access certain features.
