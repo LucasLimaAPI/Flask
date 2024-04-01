@@ -7,7 +7,7 @@ Flask is a micro web framework for Python designed to build web applications wit
 ### Building a Flask Web Application for Game Management
 
 Introduction:
-Good [morning/afternoon/evening], everyone. Today, I'm excited to present our Flask web application for managing games. This application allows users to view a list of games, add new games, and authenticate themselves to access certain features.
+Hello Everyone. Today, I'm excited to present our Flask web application for managing games. This application allows users to view a list of games, add new games, and authenticate themselves to access certain features.
 
 ### 1. Imports:
 First, let's start with the necessary imports. We've imported essential modules from Flask, including Flask, render_template, request, redirect, session, flash, and url_for. These modules provide functionalities such as rendering templates, handling requests, managing sessions, and generating URLs.
